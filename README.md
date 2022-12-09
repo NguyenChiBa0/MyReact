@@ -15,3 +15,5 @@
 13. [Câu 19](https://codepen.io/NguyenChiBa0/pen/oNyVVwy)
 14. [Câu 20](https://codepen.io/NguyenChiBa0/pen/XWYGGag)
 15. [Câu 21](https://codepen.io/NguyenChiBa0/pen/VwdRRzG)
+## Thực hành
+1.[Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/great-easley-chs4hm?file=/src/index.js)
